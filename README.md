@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/27105839/README.md)
-# -# DialectAI v5 — English Dialect Recognition
+# -# DialectAI — English Dialect Recognition
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)](https://python.org)
 [![PyTorch 2.2](https://img.shields.io/badge/PyTorch-2.2.2-ee4c2c)](https://pytorch.org)
