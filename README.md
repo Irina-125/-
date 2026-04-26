@@ -239,9 +239,6 @@ dialect-ai-v5/
 
 ---
 
-## Authors
-
-Подгорных И.В., Кованцев А.Н.
 
 ## References
 
